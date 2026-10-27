@@ -13,7 +13,7 @@ man ls
 
 ## Class preparation steps: 
 1. Open vscode
-2. Open a project folder in your projects directory
+2. Open a project folder in your projects directory (File > Open Folder)
 3. Create a repository on Github
 4. Create a notes.txt file
 5. Create an index.html file !
